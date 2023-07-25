@@ -1,0 +1,21 @@
+Quick Sort and Merge Sort Comparison:
+
+Advantages of Quick Sort
+	It is one of the fastest sorting algorithm.
+	It is simple and easy to understand than some of the other algorithm.
+	It does not require additional space to perform the sorting.
+
+Disadvantages of Quick Sort
+	Mostly used for array, because its not very suitable for other datastructures such as linkedlist.
+	Pivot selection is very important, poorly selected pivot can affect the performance.
+
+
+Comparison: 
+
+1.Merge sort is more efficient and works faster than quick sort in case of larger array size or datasets.
+2.Quick sort is more efficient and works faster than merge sort in case of smaller array size or datasets.
+
+Example:
+
+In milliseconds, Quick Sort taking 0.9389 ms but the Merge Sort taking 0.6231 ms. 
+So Comparatively, Merge sort is taking less time to do the sorting than Quick Sort.
